@@ -12,18 +12,18 @@ The document and Video link for learning basic C3D <br/>
 </p>
 
 <center>
-|      Name       |       Doc       |       PDF       |    Video_link   |
-| --------------- | --------------- | --------------- | --------------- |
-| 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
-| 2. Existing grading surface | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
-| 3. Alignment | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
-| 4. Horizontal Curve  | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
-| 5. Profile | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
-| 6. Vertical Curve | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
-| 7. Assembly | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
-| 8. Corridor | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
-| 9. Earth Work | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
-| 10. Cross section | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
-| 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
+    |      Name       |       Doc       |       PDF       |    Video_link   |
+    | --------------- | --------------- | --------------- | --------------- |
+    | 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
+    | 2. Existing grading surface | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
+    | 3. Alignment | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
+    | 4. Horizontal Curve  | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
+    | 5. Profile | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
+    | 6. Vertical Curve | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
+    | 7. Assembly | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
+    | 8. Corridor | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
+    | 9. Earth Work | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
+    | 10. Cross section | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
+    | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
 <center>
 
