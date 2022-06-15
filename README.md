@@ -25,4 +25,4 @@ the document for learning Civil3D in Surveying with Construction Applications su
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="400" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="300" height="250" border="10" /></a>
