@@ -17,7 +17,7 @@ the document for learning Civil3D in Surveying with Construction Applications su
 | 5. Profile | Row 2 Column 2 | Row 2 Column 3 |
 | 6. Vertical Curve | Row 3 Column 2 | Row 3 Column 3 |
 | 7. Assembly | Row 1 Column 2 | Row 1 Column 3 |
-| 8. Corridor and Sample Line | Row 2 Column 2 | Row 2 Column 3 |
+| 8. Corridor | Row 2 Column 2 | Row 2 Column 3 |
 | 9. Earth Work | Row 3 Column 2 | Row 3 Column 3 |
 | 10. Cross section | Row 2 Column 2 | Row 2 Column 3 |
 | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |
