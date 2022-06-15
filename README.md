@@ -15,16 +15,16 @@ The document and Video link for learning basic C3D <br/>
     
 |      Name       |       Doc       |       PDF       |    Video_link   |
 | --------------- | --------------- | --------------- | --------------- |
-| 1. intro to Civil3D | DOC 1 | Row 1 Column 3 |Row 1 Column 3 |
-| 2. Existing grading surface | DOC 2 | Row 2 Column 3 |Row 1 Column 3 |
-| 3. Alignment | DOC 3 | Row 3 Column 3 |Row 1 Column 3 |
-| 4. Horizontal Curve  | DOC 4| Row 1 Column 3 |Row 1 Column 3 |
-| 5. Profile | DOC 5 | Row 2 Column 3 |Row 1 Column 3 |
-| 6. Vertical Curve | DOC 6 | Row 3 Column 3 |Row 1 Column 3 |
-| 7. Assembly | DOC 7 | Row 1 Column 3 |Row 1 Column 3 |
-| 8. Corridor | DOC 8 | Row 2 Column 3 |Row 1 Column 3 |
-| 9. Earth Work | DOC 9 | Row 3 Column 3 |Row 1 Column 3 |
-| 10. Cross section | DOC 10 | Row 2 Column 3 |Row 1 Column 3 |
-| 11. Map Layout | DOC 11 | Row 3 Column 3 |Row 1 Column 3 |
+| 1. intro to Civil3D           | DOC 1  | PDF 1  | link 1  |
+| 2. Existing grading surface   | DOC 2  | PDF 2  | link 2  |
+| 3. Alignment                  | DOC 3  | PDF 3  | link 3  |
+| 4. Horizontal Curve           | DOC 4  | PDF 4  | link 4  |
+| 5. Profile                    | DOC 5  | PDF 5  | link 5  |
+| 6. Vertical Curve             | DOC 6  | PDF 6  | link 6  |
+| 7. Assembly                   | DOC 7  | PDF 7  | link 7  |
+| 8. Corridor                   | DOC 8  | PDF 8  | link 8  |
+| 9. Earth Work                 | DOC 9  | PDF 9  | link 9  |
+| 10. Cross section             | DOC 10 | PDF 10 | link 10 |
+| 11. Map Layout                | DOC 11 | PDF 11 | link 11 |
   
 </div>
