@@ -23,9 +23,6 @@ the document for learning Civil3D in Surveying with Construction Applications su
 | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |
 
 
-[![Everything Is AWESOME width="40" height="80" border="10"](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="10" height="20" border="10" /></a>
