@@ -10,8 +10,7 @@ the document for learning Civil3D in Surveying with Construction Applications su
 
 |      Name       |       Doc       |       PDF       |    Video_link   |
 | --------------- | --------------- | --------------- | --------------- |
-| 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 |<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="250" border="10" /></a> |
+| 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 |A|
 | 2. Existing grading surface | Row 2 Column 2 | Row 2 Column 3 |
 | 3. Alignment | Row 3 Column 2 | Row 3 Column 3 |
 | 4. Horizontal Curve  | Row 1 Column 2 | Row 1 Column 3 |
