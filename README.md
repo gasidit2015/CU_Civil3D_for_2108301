@@ -3,4 +3,9 @@ the document for learning Civil3D in Surveying with Construction Applications su
 ทดสอบหัดเขียน github 1 <br/>
 ทดสอบหัดเขียน github 2 <br/>
 ทดสอบหัดเขียน github 3 <br/>
-![alt text](https://github.com/gasidit2015/CU_Civil3D_for_2108301/blob/main/1.png?raw=true)
+![alt text](https://github.com/gasidit2015/CU_Civil3D_for_2108301/blob/main/1.png?raw=true) <br/>
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
