@@ -26,16 +26,5 @@ The document and Video link for learning basic C3D <br/>
 | 9. Earth Work | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
 | 10. Cross section | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
 | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
-
-    
-</div>
-
-<div align="center">
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
+  
 </div>
