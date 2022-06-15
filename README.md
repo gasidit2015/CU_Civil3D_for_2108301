@@ -11,7 +11,8 @@ The document and Video link for learning basic C3D <br/>
     <img src="https://github.com/gasidit2015/CU_Civil3D_for_2108301/blob/main/Civil3D%20interface%20.png"> 
 </p>
 
-
+<div align="center">
+    
 |      Name       |       Doc       |       PDF       |    Video_link   |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 |Row 1 Column 3 |
@@ -25,6 +26,9 @@ The document and Video link for learning basic C3D <br/>
 | 9. Earth Work | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
 | 10. Cross section | Row 2 Column 2 | Row 2 Column 3 |Row 1 Column 3 |
 | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 |Row 1 Column 3 |
+
+    
+</div>
 
 <div align="center">
 
