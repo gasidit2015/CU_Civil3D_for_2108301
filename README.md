@@ -3,7 +3,7 @@ the document for learning Civil3D in Surveying with Construction Applications su
 
 โปรแกรมจัดการแบบก่อสร้าง AutoCAD Civil 3D ได้ถูกยกนำมาใช้งานอย่างแพร่หลายในงานออกแบบเชิงวิศวกรรมในปัจจุบัน ซึ่งความรู้ในการใช้โปรแกรมขั้นพื้นฐาน จึงมีความจำเป็นอย่างยิ่งที่สำหรับผู้ที่กำลังจะจบการศึกษา และ ผู้ที่กำลังอยู่ในช่วงกำลังศึกษาในด้านวิศวกรรมโยธา วิศวกรรมสำรวจ และ วิศวกรรมในแขนงอื่นๆ ที่มี่ส่วนเกี่ยวข้องกับการออกแบบโครงสร้างพื้นฐานที่จำเป็นในชีวิตประจำวัน หรือ infrastructure  <br/>
 
-![alt text](https://github.com/gasidit2015/CU_Civil3D_for_2108301/blob/main/1.png?raw=true) <br/>
+![alt text](https://github.com/gasidit2015/CU_Civil3D_for_2108301/blob/main/Civil3D%20interface%20.png) <br/>
 
 
 |      Name       |       Doc       |       PDF       |    Video_link   |
