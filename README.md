@@ -10,7 +10,7 @@ the document for learning Civil3D in Surveying with Construction Applications su
 
 |      Name       |       Doc       |       PDF       ||       Video_link       |
 | --------------- | --------------- | --------------- || ---------------------- |
-| 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 || [![Everything Is AWESOME width="10" height="20" border="10"](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME") |
+| 1. intro to Civil3D | Row 1 Column 2 | Row 1 Column 3 || A |
 | 2. Existing grading surface | Row 2 Column 2 | Row 2 Column 3 || Row 1 Column 3 |
 | 3. Alignment | Row 3 Column 2 | Row 3 Column 3 || Row 1 Column 3 |
 | 4. Horizontal Curve  | Row 1 Column 2 | Row 1 Column 3 || Row 1 Column 3 |
@@ -23,3 +23,4 @@ the document for learning Civil3D in Surveying with Construction Applications su
 | 11. Map Layout | Row 3 Column 2 | Row 3 Column 3 || Row 1 Column 3 |
 
 
+[![Everything Is AWESOME width="40" height="80" border="10"](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
