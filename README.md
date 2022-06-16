@@ -1,5 +1,5 @@
 # CU_C3D_for_2108301_Surveying with Construction Applications
-The document and Video link for learning basic C3D <br/>
+The document and Video link for learning basic C3D Edition 2022 <br/>
 
 <p align="center">
     <img src="https://civil3dj.files.wordpress.com/2018/12/civil310.jpg"> 
