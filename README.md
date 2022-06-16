@@ -16,7 +16,7 @@ The document and Video link for learning basic C3D <br/>
 |         Name          |          Doc          |          PDF          |       Video_link      |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. intro to Civil3D           | [DOC 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 1](https://img.youtube.com/vi/tdRjyfU8hhU/3.jpg)](https://youtu.be/tdRjyfU8hhU)|
-| 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 2](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 2](https://img.youtube.com/vi/VVU7lFV8CNQ/2.jpg)](https://youtu.be/VVU7lFV8CNQ)|
 | 3. Alignment                  | [DOC 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 3](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
 | 4. Horizontal Curve           | [DOC 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 4](https://img.youtube.com/vi/wWDvuvpFb_0/2.jpg)](https://youtu.be/wWDvuvpFb_0)|
 | 5. Profile                    | [DOC 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 5](https://img.youtube.com/vi/1FHM4xsHaUU/2.jpg)](https://youtu.be/1FHM4xsHaUU)|
