@@ -23,9 +23,9 @@ The document and Video link for learning basic C3D Edition 2022 <br/>
 | 6. Vertical Curve             | [DOC 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 6](https://img.youtube.com/vi/jF7jL9dHpSg/1.jpg)](https://youtu.be/jF7jL9dHpSg)|
 | 7. Assembly                   | [DOC 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 7](https://img.youtube.com/vi/rXzKVo4swQU/2.jpg)](https://youtu.be/rXzKVo4swQU)|
 | 8. Corridor                   | [DOC 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 8](https://img.youtube.com/vi/ACrQcx2fbAI/3.jpg)](https://youtu.be/ACrQcx2fbAI)|
-| 9. Earth Work                 | [DOC 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 9](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
-| 10. Cross section             | [DOC 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 10](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
-| 11. Map Layout                | [DOC 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 11](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 9. Earth Work                 | [DOC 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 9](https://img.youtube.com/vi/6sMa5q8F8eI/2.jpg)](https://youtu.be/6sMa5q8F8eI)|
+| 10. Cross section             | [DOC 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 10](https://img.youtube.com/vi/pbQCVUVHdmI/3.jpg)](https://youtu.be/pbQCVUVHdmI)|
+| 11. Map Layout                | [DOC 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 11](https://img.youtube.com/vi/EXWct5p5bWk/1.jpg)](https://youtu.be/EXWct5p5bWk)|
   
 </div>
 
