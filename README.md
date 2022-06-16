@@ -14,7 +14,7 @@ The document and Video link for learning basic C3D <br/>
 <div align="center">
     
 |      Name       |       Doc       |       PDF       |    Video_link   |
-| --------------- | --------------- | --------------- | --------------- |
+| --------------- | ---------------------- | ---------------------- | --------------- |
 | 1. intro to Civil3D           | [DOC 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 1](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
 | 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 2](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
 | 3. Alignment                  | [DOC 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 3](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
