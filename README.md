@@ -16,15 +16,15 @@ The document and Video link for learning basic C3D <br/>
 |      Name       |       Doc       |       PDF       |    Video_link   |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. intro to Civil3D           | [DOC 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 1](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
-| 2. Existing grading surface   | DOC 2  | PDF 2  | link 2  |
-| 3. Alignment                  | DOC 3  | PDF 3  | link 3  |
-| 4. Horizontal Curve           | DOC 4  | PDF 4  | link 4  |
-| 5. Profile                    | DOC 5  | PDF 5  | link 5  |
-| 6. Vertical Curve             | DOC 6  | PDF 6  | link 6  |
-| 7. Assembly                   | DOC 7  | PDF 7  | link 7  |
-| 8. Corridor                   | DOC 8  | PDF 8  | link 8  |
-| 9. Earth Work                 | DOC 9  | PDF 9  | link 9  |
-| 10. Cross section             | DOC 10 | PDF 10 | link 10 |
-| 11. Map Layout                | DOC 11 | PDF 11 | link 11 |
+| 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 2](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 3. Alignment                  | [DOC 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 3](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 4. Horizontal Curve           | [DOC 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 4](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 5. Profile                    | [DOC 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 5](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 6. Vertical Curve             | [DOC 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 6](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 7. Assembly                   | [DOC 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 7](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 8. Corridor                   | [DOC 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 8](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 9. Earth Work                 | [DOC 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 9](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 10. Cross section             | [DOC 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 10](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
+| 11. Map Layout                | [DOC 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 11](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
   
 </div>
