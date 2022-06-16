@@ -38,4 +38,9 @@ The document and Video link for learning basic C3D Edition 2022 <br/>
     
 </div>
 
-[![channel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1200px-YouTube_social_white_square_%282017%29.svg.png)]([link to your URL](https://www.youtube.com/channel/UCkcGxFmeeVIjOtkD6GnrQ4Q))
+
+<p align="center">
+    
+[![channel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1200px-YouTube_social_white_square_%282017%29.svg.png)](https://www.youtube.com/channel/UCkcGxFmeeVIjOtkD6GnrQ4Q))
+
+</p>
