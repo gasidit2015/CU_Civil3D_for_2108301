@@ -13,7 +13,7 @@ The document and Video link for learning basic C3D Edition 2022 <br/>
 
 <div align="center">
     
-|         Name          |          Doc          |          PDF          |       Video_link      |
+|         Name          |          ไฟล์เอกสาร .Doc          |          ไฟล์เอกสาร .PDF          |       Video_link_for_C3D      |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. intro to Civil3D           | [DOC 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 1](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 1](https://img.youtube.com/vi/tdRjyfU8hhU/2.jpg)](https://youtu.be/tdRjyfU8hhU)|
 | 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [![link 2](https://img.youtube.com/vi/VVU7lFV8CNQ/2.jpg)](https://youtu.be/VVU7lFV8CNQ)|
