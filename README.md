@@ -28,3 +28,5 @@ The document and Video link for learning basic C3D <br/>
 | 11. Map Layout                | [DOC 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [![link 11](https://img.youtube.com/vi/ViOzYSYWCMM/3.jpg)](https://www.youtube.com/watch?v=ViOzYSYWCMM)|
   
 </div>
+
+หากมีข้อผิดพลาดประการใดก็ขออภัยไว้ ณ ที่นี้ด้วย เนื่องด้วยผู้จัดทำยังมีประสบการณ์ที่ยังน้อย เเละ ถ้าหากว่ามีโอกาศ จะมีการ อัพเดทเนื้อหาเพิ่มเติม ตามความรู้ความเข้าใจที่ผู้
