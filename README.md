@@ -16,16 +16,16 @@ The document and Video link for learning basic C3D Edition 2022 <br/>
 |         Name          |          Doc          |          PDF          |       Video_link      |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. intro to Civil3D           | [DOC 1]()  | [PDF 1]()  |   [![link 1](https://img.youtube.com/vi/tdRjyfU8hhU/2.jpg)](https://youtu.be/tdRjyfU8hhU)|
-| 2. Existing grading surface   | [DOC 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 2](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 2](https://img.youtube.com/vi/VVU7lFV8CNQ/2.jpg)](https://youtu.be/VVU7lFV8CNQ)|
-| 3. Alignment                  | [DOC 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 3](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 3](https://img.youtube.com/vi/fcSHjxn5exE/2.jpg)](https://youtu.be/fcSHjxn5exE)|
-| 4. Horizontal Curve           | [DOC 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 4](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 4](https://img.youtube.com/vi/wWDvuvpFb_0/2.jpg)](https://youtu.be/wWDvuvpFb_0)|
-| 5. Profile                    | [DOC 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 5](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 5](https://img.youtube.com/vi/1FHM4xsHaUU/2.jpg)](https://youtu.be/1FHM4xsHaUU)|
-| 6. Vertical Curve             | [DOC 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 6](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 6](https://img.youtube.com/vi/jF7jL9dHpSg/1.jpg)](https://youtu.be/jF7jL9dHpSg)|
-| 7. Assembly                   | [DOC 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 7](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 7](https://img.youtube.com/vi/rXzKVo4swQU/2.jpg)](https://youtu.be/rXzKVo4swQU)|
-| 8. Corridor                   | [DOC 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 8](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 8](https://img.youtube.com/vi/ACrQcx2fbAI/3.jpg)](https://youtu.be/ACrQcx2fbAI)|
-| 9. Earth Work                 | [DOC 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  | [PDF 9](https://www.youtube.com/watch?v=ViOzYSYWCMM)  |   [![link 9](https://img.youtube.com/vi/6sMa5q8F8eI/2.jpg)](https://youtu.be/6sMa5q8F8eI)|
-| 10. Cross section             | [DOC 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 10](https://www.youtube.com/watch?v=ViOzYSYWCMM) |   [![link 10](https://img.youtube.com/vi/pbQCVUVHdmI/3.jpg)](https://youtu.be/pbQCVUVHdmI)|
-| 11. Map Layout                | [DOC 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) | [PDF 11](https://www.youtube.com/watch?v=ViOzYSYWCMM) |   [![link 11](https://img.youtube.com/vi/EXWct5p5bWk/1.jpg)](https://youtu.be/EXWct5p5bWk)|
+| 2. Existing grading surface   | [DOC 2]()  | [PDF 2]()  |   [![link 2](https://img.youtube.com/vi/VVU7lFV8CNQ/2.jpg)](https://youtu.be/VVU7lFV8CNQ)|
+| 3. Alignment                  | [DOC 3]()  | [PDF 3]()  |   [![link 3](https://img.youtube.com/vi/fcSHjxn5exE/2.jpg)](https://youtu.be/fcSHjxn5exE)|
+| 4. Horizontal Curve           | [DOC 4]()  | [PDF 4]()  |   [![link 4](https://img.youtube.com/vi/wWDvuvpFb_0/2.jpg)](https://youtu.be/wWDvuvpFb_0)|
+| 5. Profile                    | [DOC 5]()  | [PDF 5]()  |   [![link 5](https://img.youtube.com/vi/1FHM4xsHaUU/2.jpg)](https://youtu.be/1FHM4xsHaUU)|
+| 6. Vertical Curve             | [DOC 6]()  | [PDF 6]()  |   [![link 6](https://img.youtube.com/vi/jF7jL9dHpSg/1.jpg)](https://youtu.be/jF7jL9dHpSg)|
+| 7. Assembly                   | [DOC 7]()  | [PDF 7]()  |   [![link 7](https://img.youtube.com/vi/rXzKVo4swQU/2.jpg)](https://youtu.be/rXzKVo4swQU)|
+| 8. Corridor                   | [DOC 8]()  | [PDF 8]()  |   [![link 8](https://img.youtube.com/vi/ACrQcx2fbAI/3.jpg)](https://youtu.be/ACrQcx2fbAI)|
+| 9. Earth Work                 | [DOC 9]()  | [PDF 9]()  |   [![link 9](https://img.youtube.com/vi/6sMa5q8F8eI/2.jpg)](https://youtu.be/6sMa5q8F8eI)|
+| 10. Cross section             | [DOC 10]() | [PDF 10]() |   [![link 10](https://img.youtube.com/vi/pbQCVUVHdmI/3.jpg)](https://youtu.be/pbQCVUVHdmI)|
+| 11. Map Layout                | [DOC 11]() | [PDF 11]() |   [![link 11](https://img.youtube.com/vi/EXWct5p5bWk/1.jpg)](https://youtu.be/EXWct5p5bWk)|
   
 </div>
 
